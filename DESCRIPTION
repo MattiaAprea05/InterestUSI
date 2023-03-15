@@ -1,0 +1,9 @@
+Package: interest
+Type: Package
+Title: Interest Rate Calculations
+Version: 0.9
+Date: 2023-03-15
+Author: mattia.aprea@usi.ch
+Maintainer: Mattia Aprea <mattia.aprea@usi.ch>
+Description: Several functions to calculate return and prices 
+License: GPL-3
